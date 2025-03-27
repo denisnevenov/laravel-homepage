@@ -1,0 +1,73 @@
+
+/* Tailwindcss */
+@import 'tailwindcss';
+
+@theme {
+    --color-light-indigo: #f2f1f6;
+    --color-lightest-blue: #f7faff;
+    --color-lighter-blue: #f1f8ff;
+    --color-light-blue: #E4EFFC;
+    --color-blue: #0A59DD;
+    --color-blue-matte: #6881AA;
+    --color-blue-grad-from: #083982;
+    --color-blue-grad-to: #2064B5;
+    --color-dark: #1F1F1F;
+    --color-light-gray: #818181;
+    --shadow-glow: 0 0 25px rgba(59,130,246,0.3);
+}
+
+.ico-focus {
+    background: url('../images/ico-focus.svg') no-repeat 0 0;
+}
+
+.ico-money {
+    background: url('../images/ico-money.svg') no-repeat 0 0;
+}
+
+.ico-cog {
+    background: url('../images/ico-cog.svg') no-repeat center center;
+}
+
+.ico-heart {
+    background: url('../images/ico-heart.svg') no-repeat 0 0;
+}
+
+.ico-angle {
+    background: url('../images/ico-angle.svg') no-repeat 0 0;
+}
+
+.ico-priority {
+    background: url('../images/ico-priority.svg') no-repeat 0 0;
+}
+
+.ico-monitoring {
+    background: url('../images/ico-monitoring.svg') no-repeat 0 0;
+}
+
+.ico-updates {
+    background: url('../images/ico-updates.svg') no-repeat 0 0;
+}
+
+.ico-check {
+    background: url('../images/ico-check.svg') no-repeat 0 0;
+}
+
+.ico-social-facebook {
+    background: url('../images/ico-social-facebook.svg') no-repeat center center;
+}
+
+.ico-social-x {
+    background: url('../images/ico-social-x.svg') no-repeat center center;
+}
+
+.ico-social-linkedin {
+    background: url('../images/ico-social-linkedin.svg') no-repeat center center;
+}
+
+.ico-chevron-down-sm {
+    background: url('../images/ico-chevron-down-sm.svg') no-repeat 0 0;
+}
+
+.accordion-arrow {
+    background: url('../images/ico-chevron-down.svg') no-repeat 0 0;
+}
